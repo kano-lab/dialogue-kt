@@ -6,3 +6,4 @@ data/src/*.json
 results/**/*.json
 results/**/*.txt
 results/**/*.csv
+venv/
